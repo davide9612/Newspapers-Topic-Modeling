@@ -1,2 +1,4 @@
 pandas
 snscrape
+spacy
+numpy
