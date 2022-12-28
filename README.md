@@ -1,5 +1,7 @@
 ## **Progetto Waat Anno Accademico 2021-2022**, _Topic modeling:_ Analisi delle tendenze della stampa italiana nell’ultimo triennio e impatto sulle notizie del verificarsi dei due grandi eventi Covid19 e Invasione delle truppe russe in Ucraina
 
+È possibile visionare il progetto ed il report anche su Google Drive al seguente link: https://drive.google.com/drive/folders/15UoadRMTmgLubrysOpByqXS4OOLx2TYt?usp=sharing
+
 _Docente:_ Prof. Marco Ortu
 
 _Autori:_ Alessandro Piroddi, Davide Locci.
